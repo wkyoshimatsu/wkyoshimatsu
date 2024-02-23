@@ -4,7 +4,7 @@
 
 ## I'm Washington Kiyoshi Yoshimatsu!
 
- <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wkyoshimatsu&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wkyoshimatsu&layout=compact&langs_count=7&theme=dark">
 </div>
@@ -13,11 +13,12 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning JAVA / Angular / AWS.
+:books: I’m currently learning JAVA / AWS / Angular.
 
 :outbox_tray: 2024 Goals: create a new project and find a new job.
 
- - 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
