@@ -1,45 +1,44 @@
-# Welcome!
-
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Laptop com ícone de código isométrico de programa, desenvolvimento de software e aplicações de programação néon escuro from fullvector - www.freepik.com" height="400" src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg">
 
 <h1>
-    <a href="https://wkyoshimatsu.github.io/">
-     <img align="center" alt="Logo Washington Yoshimatsu" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
     <span>Washington Yoshimatsu</span>
 </h1>
- 
-
-## I'm Washington Kiyoshi Yoshimatsu!
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wkyoshimatsu&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wkyoshimatsu&layout=compact&langs_count=7&theme=dark">
-</div>
 
 :computer: I'm Fullstack Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from São José dos Campos/SP - Brazil.
 
-:books: I’m currently learning JAVA / AWS / Angular.
+:outbox_tray: 2024 Goals: create a new projects and find a new job.
 
-:outbox_tray: 2024 Goals: create a new project and find a new job.
+:books: I’m graduating at B.Tech.
 
+🌱 I’m currently learning JAVA / AWS / Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Fun facts: My hobbies are reading, watching and DIY.
 
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wkyoshimatsu)](https://github.com/wkyoshimatsu)
+<h3 align="left">Connect with me</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/washington-yoshimatsu/)](https://www.linkedin.com/in/washington-yoshimatsu/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wkyoshimatsu)](https://github.com/wkyoshimatsu)
 
-- Thanks for visiting.
+<h3 align="left">GitHub Stats</h3>
 
-- Enjoy it!! o/
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=140 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wkyoshimatsu&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=140 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wkyoshimatsu&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&theme=chartreuse-dark" />
+</a>
+<br>
+<br>
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Laptop com ícone de código isométrico de programa, desenvolvimento de software e aplicações de programação néon escuro from fullvector - www.freepik.com</a>
+ 
+  <div align="right">Made by <a href="https://github.com/wkyoshimatsu">wkyoshimatsu</a>.</div>
+
+</details>
